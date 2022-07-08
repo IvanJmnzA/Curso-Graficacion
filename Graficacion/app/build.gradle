@@ -37,7 +37,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'Graficacion.App'
+    mainClass = 'Graficacion.VentanaPrincipal'
 }
 
 tasks.named('test') {
